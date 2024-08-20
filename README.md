@@ -2,6 +2,11 @@
 
 Make your computer clean and userful
 
+# Feature
+* 
+
+# Usage
+
 # Caution
 * 删除 xcode 会导致一些终端命令（git等）无法使用，删除需谨慎
 
